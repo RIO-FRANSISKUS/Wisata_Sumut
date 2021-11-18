@@ -1,0 +1,110 @@
+<?xml version="1.0"?>
+
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:foaf = "http://xmlns.com/foaf/0.1/"
+    xmlns:geo="https://www.geonames.org/ontology#" 
+    xmlns:ws = "http://www.wisatasumut/ws/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+<rdf:Description
+    rdf:about="https://id.wikipedia.org/wiki/Istana_Maimun">
+    <dc:title>Istana Maimum</dc:title>
+    <dc:description>Istana Maimun adalah istana Kesultanan Deli yang merupakan salah satu ikon Kota Medan, Sumatra Utara. Istana ini terletak di Jalan Brigjend Katamso, Medan. Istana Maimun menjadi tujuan wisata bukan hanya karena usianya yang tua, tetapi juga desain interiornya yang unik, memadukan unsur-unsur warisan kebudayaan Melayu Deli, dengan gaya Islam, Spanyol, India, Belanda dan Italia.</dc:description>
+    <geo:city>Kota Medan</geo:city>
+    <ws:price>5000</ws:price>
+    <foaf:phone>0812085dfdfd</foaf:phone>
+    <ws:map>https://www.google.com/maps/place/Istana+Maimun/@3.5752504,98.6816577,17z/data=!3m1!4b1!4m5!3m4!1s0x30313049877b2b03:0xf53d32d91225a774!8m2!3d3.5752107!4d98.6836358</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://id.wikipedia.org/wiki/Danau_Toba">
+    <dc:title>Danau Toba</dc:title>
+    <dc:description>Danau Toba adalah danau alami berukuran besar di Indonesia yang berada di kaldera Gunung Supervulkan. Danau ini memiliki panjang 100 kilometer, lebar 30 kilometer , dan kedalaman 505 meter. Danau Toba menawarkan banyak keindahan alam yang menjadi ikon pariwisata Indonesia</dc:description>
+    <geo:city>Kabupaten Simalungun</geo:city>
+    <ws:price>10.90</ws:price>
+    <foaf:phone>-</foaf:phone>
+    <ws:map>https://www.google.com/maps/place/Danau+Toba/@2.6107298,98.5557703,10z/data=!3m1!4b1!4m5!3m4!1s0x3031de07a843b6ad:0xc018edffa69c0d05!8m2!3d2.7860786!4d98.6160674</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://id.wikipedia.org/wiki/Gunung_Sibayak">
+    <dc:title>Gunung Sibayak</dc:title>
+    <dc:description>Gunung Sibayak adalah sebuah gunung di Kabupaten Karo, Sumatra Utara. Orang suku Karo menyebut gunung Sibayak dengan sebutuan "gunung Raja". Gunung Sibayak merupakan gunung berapi dan meletus terakhir tahun 1881. Gunung ini berada di sekitar 50 kilometer barat daya Kota Medan. Sekarang Gunung Sibayak banyak dikunjungi karena akses menuju gunung sibayak banyak mulai Sibayak 1 dan Sibayak 2. Setiap 17 Agustus di Gunung Sibayak diadakan upacara rutin serta lomba panjat pinang seluruh pencinta alam dari berbagai macam dan berbagai penjuru.</dc:description>
+    <geo:city>Berastagi</geo:city>
+    <ws:price>00.00</ws:price>
+    <foaf:phone>-</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Gn.+Sibayak/@3.2009906,98.5074019,15.26z/data=!4m5!3m4!1s0x303102e887075dfb:0x3a472ce13b073e11!8m2!3d3.2!4d98.516667</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://www.museumindonesia.com/museum/33/1/Museum_Negeri_Provinsi_Sumatera_Utara_Medan">
+    <dc:title>Museum Negeri Sumatera Utara</dc:title>
+    <dc:description>Museum Sumatra Utara atau yang lebih dikenal warga Sumut Museum Negeri Provinsi Sumatra Utara ini terletak di Jln. H.M. Jhoni No. 51 Medan. Merupakan Museum terbesar di Sumatra Utara yang berbagai peninggalan sejarah budaya bangsa, hasil seni dan kerajinan dari berbagai suku di Sumatra Utara. Museum ini dibangun pada tahun 1954 dan diresmikan pada tanggal 19 April 1982 oleh Menteri Pendidikan dan Kebudayaan Daoed Joesoef. Museum ini merupakan salah satu museum terbaik di Indonesia.</dc:description>
+    <geo:city>Kota Medan</geo:city>
+    <ws:price>3000</ws:price>
+    <foaf:phone>0812-1900-331</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Museum+Negeri+Sumatera+Utara/@3.5681461,98.694126,17z/data=!3m1!4b1!4m5!3m4!1s0x3031305a51a6451f:0x7e6a2066d94acf8a!8m2!3d3.5683498!4d98.6963128</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://id.wikipedia.org/wiki/Kebun_Binatang_Pematang_Siantar">
+    <dc:title>Taman Hewan Pematang Siantar</dc:title>
+    <dc:description>Taman Hewan Pematangsiantar atau sebelumnya dikenal juga sebagai Kebun Binatang Siantar dan Kebun Binatang Pematangsiantar, adalah kebun binatang yang terletak di kota Pematangsiantar. Kebun binatang ini resmi dibuka untuk umum pada tanggal 27 November 1936 dengan luas areal sekitar 4.5 hektare. THPS berlokasi di Jalan Gunung Simanuk-Manuk Kota Pematangsiantar, Provinsi Sumatra Utara. Sampai saat ini THPS masih mempertahankan statusnya sebagai kebun binatang yang terlengkap dan terbaik di wilayah Sumatra Utara. Koleksi satwa dan popularitasnya bahkan mengalahkan Kebun Binatang Medan dengan luas yang berpuluh kali lebih besar daripada THPS dan merupakan kebun binatang terbesar di wilayah Sumatra Utara yang terletak di ibu kota provinsi Sumatra Utara, Kota Medan. Meskipun dengan berbagai keterbatasan seperti sempitnya ruang yang tersedia, kurangnya pendanaan serta pemahaman untuk proyek peremajaan eksibisi hewan, namun melalui usaha perawatan hewan yang cukup baik, THPS cukup berhasil dalam menjalankan peranannya sebagai lembaga konservasi serta dapat digolongkan sebagai salah satu kebun binatang yang terbaik di antara kebun binatang yang ada di Indonesia.</dc:description>
+    <geo:city>Kota Pematang Siantar</geo:city>
+    <ws:price>30000</ws:price>
+    <foaf:phone>(0622) 21611</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Taman+Hewan+Pematang+Siantar/@2.9526171,99.0571798,17z/data=!3m1!4b1!4m5!3m4!1s0x3031845850c3abeb:0x562eb792fafe4e18!8m2!3d2.9525855!4d99.0593802</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://www.tamanalamlumbini.org/">
+    <dc:title>Taman Alam Lumbini Berastagi</dc:title>
+    <dc:description>Taman Alam Lumbini merupakan Replika Pagoda Diarsipkan 2019-12-01 di Wayback Machine. Shwedagon Diarsipkan 2019-12-01 di Wayback Machine. yang berada di negara Myanmar. Taman dengan luas kawasan kurang lebih 3 hektar terletak di komplek International Buddhis Centre - Taman Alam Lumbini tepatnya di Desa Dolat Rayat, Kota Brastagi, Sumatera Utara. Taman ini dipusatkan sebagai tempat peribadatan dan wisata religi agama Budha. Secara keseluruhan taman yang dikenal dengan nama pagoda emas ini masuk ke dalam museum rekor Indonesia sebagai pagoda tertinggi di Indonesia dan merupakan replika tertinggi kedua di Asia Tenggara. Bangunan dengan tinggi 46,8 meter, panjang 68 meter, lebar 68 meter ini menjadi salah satu replika Pagoda Shwedagon terbesar di luar Negara Myanmar. Pada Oktober 2010 silam, sekitar 1.300 biarawan dan 200 tamu undangan dari seluruh dunia datang berkumpul di taman ini untuk memperingati perayaan bangunan ini.</dc:description>
+    <geo:city>Kota Dolat Rayat</geo:city>
+    <ws:price>5000</ws:price>
+    <foaf:phone>-</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Taman+Alam+Lumbini+Berastagi/@3.1960257,98.5386321,17z/data=!3m1!4b1!4m5!3m4!1s0x30310310c22de275:0x4fd336c9a603f307!8m2!3d3.1960257!4d98.5408208</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://www.mikieholiday.com/funland/">
+    <dc:title>Mikie Funland</dc:title>
+    <dc:description>Taman hiburan dengan wahana dan restoran</dc:description>
+    <geo:city>Berastagi</geo:city>
+    <ws:price>90000</ws:price>
+    <foaf:phone>0821-6288-7888</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Mikie+Funland/@3.2033975,98.5233382,17z/data=!4m9!1m2!2m1!1sMikie+Funland!3m5!1s0x303102de25af7ccf:0xc2e5f714ad1bfaa3!8m2!3d3.203402!4d98.525747!15sCg1NaWtpZSBGdW5sYW5kWg8iDW1pa2llIGZ1bmxhbmSSARNhbXVzZW1lbnRfcGFya19yaWRlmgEjQ2haRFNVaE5NRzluUzBWSlEwRm5TVU5MTFVsUVRHVm5FQUU</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="https://www.tribunnewswiki.com/2021/07/22/hillpark-sibolangit">
+    <dc:title>Hillpark Sibolangit</dc:title>
+    <dc:description>Taman hiburan dengan banyak wahana, area bermain, dan hiburan live dalam pengaturan bertema Camelot.</dc:description>
+    <geo:city>Sibolangit</geo:city>
+    <ws:price>70000</ws:price>
+    <foaf:phone>-</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Hillpark+Sibolangit/@3.2810164,98.5553448,16.22z/data=!4m13!1m7!3m6!1s0x30312ffe80a9aeab:0x9beb1bfca896d33b!2sHillpark+Sibolangit!8m2!3d3.2803576!4d98.5567063!10e1!3m4!1s0x30312ffe80a9aeab:0x9beb1bfca896d33b!8m2!3d3.2803576!4d98.5567063</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="http://rahmatgallery.com/">
+    <dc:title>Rahmat International Wildlife Museum and Gallery</dc:title>
+    <dc:description>Rahmat International Wildlife Museum and Gallery adalah museum yang diilhami oleh Dr. H Rahmatsyah yang memiliki kecintaan pada alam dan niatnya mencegah kepunahan hewan langka. Museum ini terletak di Kelurahan Petisah Hulu, Medan Baru, Kota Medan. Konsep pendiriannya sama dengan Safari Club International yaitu konservasi dengan pemanfaatan. Museum ini diresmikan pada tanggal 14 Mei 1999 oleh Menteri Pendidikan dan Kebudayaan, Juwono Sudarsono.</dc:description>
+    <geo:city>Medan baru</geo:city>
+    <ws:price>50000</ws:price>
+    <foaf:phone>(061) 4569964</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Rahmat+International+Wildlife+Museum+%26+Gallery/@3.5792189,98.6653019,17z/data=!3m1!4b1!4m5!3m4!1s0x303131d0701ed0d5:0x789fbd3830353781!8m2!3d3.5792194!4d98.6674815</ws:map>
+</rdf:Description>
+
+<rdf:Description
+    rdf:about="http://www.tbsilalahicenter.com/">
+    <dc:title>Museum Batak Tb Silalahi Center</dc:title>
+    <dc:description>Museum Pribadi T. B. Silalahi Center adalah Museum pribadi atau jejak langkah dari T. B. Silalahi yang bertempat di Jl. Pagar Batu No. 88, Desa Silalahi, Kecamatan Balige, Kabupaten Toba Samosir, Provinsi Sumatra Utara.</dc:description>
+    <geo:city>Balige</geo:city>
+    <ws:price>5000</ws:price>
+    <foaf:phone>0821-6648-7838</foaf:phone>
+    <ws:map>https://www.google.co.id/maps/place/Museum+Batak+Tb+Silalahi+Center/@2.3332045,99.0462281,17z/data=!3m1!4b1!4m5!3m4!1s0x30314bcb41946ac1:0xb21059a51abb5794!8m2!3d2.3332045!4d99.0484168</ws:map>
+</rdf:Description>
+
+</rdf:RDF>
